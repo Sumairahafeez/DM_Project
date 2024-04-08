@@ -1,6 +1,4 @@
-Certainly! Here's the revised README with the LinkedIn link included:
 
----
 
 # Discrete Mathematics Project
 

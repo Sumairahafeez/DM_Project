@@ -1,4 +1,6 @@
+Certainly! Here's the revised README with the LinkedIn link included:
 
+---
 
 # Discrete Mathematics Project
 
@@ -24,6 +26,7 @@
   - [Question 1b](#question-1b)
   - [Question 2](#question-2)
 - [Part B](#part-b)
+- [LinkedIn Post](#linkedin-post)
 
 ## Individual Contribution and Planning
 
@@ -59,4 +62,8 @@ The team members of this group are Sumaira Hafeez (2023-CS-01) and Muhammad Ayya
 
 - Finding prime factors, GCD, LCM, Bezout coefficients, and RSA encryption/decryption.
 - Includes source codes for each operation.
+
+## LinkedIn Post
+
+[LinkedIn Post](https://www.linkedin.com/posts/sumaira-hafeez-9974a6290_alhamdulillah-under-the-esteemed-guidance-activity-7147584337536872448-uWSG?utm_source=share&utm_medium=member_desktop)
 
